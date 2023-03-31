@@ -9,12 +9,12 @@ The **Multicapedia**:
 
 1. Documentation: 
 
-[German Documentation](.mucape/documentation-de)
+[German Documentation](.mucape/documentation-de.md)
 
-[English Documentation](.mucape/documentation-en)
+[English Documentation](.mucape/documentation-en.md)
 
 2. Information: 
 
-[German Information](.mucape/information-de)
+[German Information](.mucape/information-de.md)
 
-[English Information](.mucape/informatio-en)
+[English Information](.mucape/informatio-en.md)
