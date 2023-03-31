@@ -18,3 +18,8 @@ The **Multicapedia**:
 [German Information](.mucape/information-de.md)
 
 [English Information](.mucape/informatio-en.md)
+
+
+**_LICENSE_**: 
+
+[The Unlicense](https://github.com/dr3adlyx/multicalc-project/blob/main/LICENSE)
